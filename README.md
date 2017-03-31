@@ -1,6 +1,6 @@
 
 [![Ionic Logo](./ionic-logo.png)](https://ionicframework.com)
-[![Electron Logo](./electron-logo.svg =450x)](https://electron.atom.io/)
+[![Electron Logo](./electron-logo.jpg)](https://electron.atom.io/)
 
 # IonicElectron - Ionic 3 beta with Electron
 
