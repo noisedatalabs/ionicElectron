@@ -1,6 +1,6 @@
 
-[![Ionic Logo](ionic-logo.png)] <br />
-[![Electron Logo](electron-logo.svg)]
+[!(ionic-logo.png)] <br />
+[!(electron-logo.svg)]
 
 # IonicElectron - Ionic 3 beta with Electron
 
